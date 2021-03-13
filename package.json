@@ -1,0 +1,16 @@
+{
+  "name": "tailwindboxshadow",
+  "version": "1.0.0",
+  "description": "this is simple box shadow for your project and i took box shadows from tailwind css.",
+  "main": "Shadow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "box-shadow",
+    "shadow",
+    "box"
+  ],
+  "author": "karthickkannan",
+  "license": "MIT"
+}
